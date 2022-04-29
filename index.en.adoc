@@ -1,5 +1,5 @@
 = GBIF Document Template
-Author One <communication@gbif.org>; Author Two
+Andrew Rodrigues <arodrigues@gbif.org>; David Bloom; Paula Zermoglio; Robert Guralnick; Tim Hirsch; Jillian Campbell; Natasha Ali; Simon Ferrier; Aidin Niamir; Maria Cecilia Londoño; Yanina Sica
 :toc: left
 :toclevels: 3
 :numbered:
@@ -12,24 +12,16 @@ ifdef::backend-html5[]
 languageLinks:combined[]
 endif::backend-html5[]
 
-:sectnums!:
-
-include::colophon.en.adoc[]
-
-include::preface.en.adoc[]
-
 :sectnums:
 
 include::100.en.adoc[]
 
 include::200.en.adoc[]
 
+include::300.en.adoc[]
+
 :sectnums!:
 
-include::afterword.en.adoc[]
-
-include::appa.en.adoc[]
-
-include::glossary.en.adoc[]
-
 include::bibliography.en.adoc[]
+
+include::colophon.en.adoc[]
