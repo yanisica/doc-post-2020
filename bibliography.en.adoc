@@ -3,11 +3,24 @@
 
 //The bibliography list is a style of AsciiDoc bulleted list.
 
-- [[carrillo]] Carrillo Trueba C (1995) El Pedregal de San Ángel. Mexico City: Universidad Nacional Autonoma de Mexico.
-- [[eggener]]	Keith Eggener (2001) Luis Barragán’s Gardens of el Pedregal Princeton, N.J., USA: Princeton Architectural Press.
-- [[heizer]]Heizer RF & Bennyhoff JA (1958) Archeological Investigation of Cuicuilco, Valley of Mexico, 1957. Science 127(3292): 232-233. https://doi.org/10.1126/science.127.3292.232
-- [[palacio]] Palacio Prieto JL & Guilbaud M-N (2015) Patrimonio natural de la Reserva Ecológica del Pedregal de San Ángel y áreas cercanas: sitios de interés geológico y geomorfológico al sur de la Cuenca de México. Boletín de la Sociedad Geológica Mexicana 67(2):227-244. http://www.scielo.org.mx/scielo.php?script=sci_arttext&pid=S1405-33222015000200008
-- [[salas05]] Salas Portugal A (2005) Armando Salas Portugal. Mexico City: Lunwerg Editores.
-- [[salas06]] Salas Portugal A (2006) Morada de Lava: las colecciones fotográficas del Pedregal de San Ángel y la Ciudad Universitaria. Mexico City: Universidad Nacional Autonoma de Mexico.
+- Carpenter SR, DeFries R, Dietz T et al. (2006) Millennium Ecosystem Assessment: Research Needs. Science 314: 257-258. https://doi.org/10.1126/science.1131946
+- Pereira HM & Cooper HD (2006) Towards the global monitoring of biodiversity change. Trends in Ecology and Evolution 21(3): 123-129. https://doi.org/10.1016/j.tree.2005.10.015
+- Navarro LM, Fernández N, Guerra C et al. (2017) Monitoring biodiversity change through effective global coordination. Current Opinion in Environmental Sustainability 29:158–169. https://doi.org/10.1016/j.cosust.2018.02.005
+- Secretariat of the Convention on Biological Diversity (2021a) First Draft of the Post‐2020 Global Biodiversity framework. https://www.cbd.int/doc/c/914a/eca3/24ad42235033f031badf61b1/wg2020-03-03-en.pdf 
+- Secretariat of the Convention on Biological Diversity (2010) Strategic Plan for Biodiversity 2011-2020, including Aichi Biodiversity Targets. https://www.cbd.int/sp/
+- UNEP-WCMC & BIP (2020) Indicators for the post-2020 global biodiversity framework. https://www.cbd.int/sbstta/sbstta-24/post2020-indicators-en.pdf
+- Jetz, W., McGeoch, M.A., Guralnick, R. et al. Essential biodiversity variables for mapping and monitoring species populations. Nat Ecol Evol 3, 539–551 (2019). https://doi.org/10.1038/s41559-019-0826-1
+- Secretariat of the Convention on Biological Diversity (2021b) Report of the virtual sessions of the fifth science-policy forum for biodiversity and the eighth international conference on sustainability science. https://www.cbd.int/doc/c/8cd2/6eab/663d8a4cc2d198b104225345/sbstta-24-inf-28-en.pdf
+- Secretariat of the Convention on Biological Diversity (2022) Knowledge Management and the Clearing-House Mechanism. https://www.cbd.int/doc/c/bc3c/fa25/e5d7928206fe7f3fc20aa9b1/sbi-03-l-21-en.pdf 
+- Guralnick R, Walls R & Jetz W (2017) Humboldt Core – toward a standardized capture of biological inventories for biodiversity monitoring, modeling and assessment. Ecography 40: 001-012. https://doi.org/10.1111/ecog.02942
+- Sica YV, Zermoglio PF (2021) Unlocking Inventory Data Capture, Sharing and Reuse: The Humboldt Extension to Darwin Core. Biodiversity Information Science and Standards 5: e74275. https://doi.org/10.3897/biss.5.74275
+- Ferrier, S. et al. 2020. A globally applicable indicator of the capacity of terrestrial ecosystems to retain biological diversity under climate change: the bioclimatic ecosystem resilience index. Ecol. Indic. 117: 106554.https://doi.org/10.1016/j.ecolind.2020.106554 
+- Guralnick RP, Hill AW & Lane M (2007) Towards a collaborative, global infrastructure for biodiversity assessment. Ecology Letters 10(8): 663-672. https://doi.org/10.1111/j.1461-0248.2007.01063.x
+- Hill R, Adem C, Alangui WV et al. (2020) Working with Indigenous, local and scientific knowledge in assessments of nature and nature’s linkages with people. Current Opinion in Environmental Sustainability 43: 8-20. https://doi.org/10.1016/j.cosust.2019.12.006
+- Tengö M, Hill R, Malmer P et al. (2017) Weaving knowledge systems in IPBES, CBD and beyond—lessons learned for sustainability. Current Opinion in Environmental Sustainability 26-27: 17-25. https://doi.org/10.1016/j.cosust.2016.12.005
+- Brook RK & McLachlan SM (2008) Trends and prospects for local knowledge in ecological and conservation research and monitoring. Biodiversity and Conservation 17: 3501-3512. https://doi.org/10.1007/s10531-008-9445-x
+- Geldmann J, Deguignet M, Balmford A et al. (2021) Essential indicators for measuring site‐based conservation effectiveness in the post‐2020 global biodiversity framework. Conservation Letters e12792. https://doi.org/10.1111/conl.12792
+- Equator Principles Association (2020) The Equator Principles. July 2020. Available at: https://equator-principles.com/wp-content/uploads/2021/02/The-Equator-Principles-July-2020.pdf
+- UNEP-WCMC & BIP (2021) Indicator metadata sheet - Species Habitat Index. https://cdn.mol.org/static/files/indicators/habitat/WCMC-species_habitat_index-15Feb2022.pdf 
 
 <<<
