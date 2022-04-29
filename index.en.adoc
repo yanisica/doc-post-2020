@@ -12,6 +12,10 @@ ifdef::backend-html5[]
 languageLinks:combined[]
 endif::backend-html5[]
 
+:sectnums!:
+
+include::preface.en.adoc[]
+
 :sectnums:
 
 include::100.en.adoc[]
