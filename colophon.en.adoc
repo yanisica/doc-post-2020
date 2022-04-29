@@ -7,7 +7,7 @@ endif::backend-html5[]
 
 === Suggested citation
 
-Author U, Autore D & Auteur T. The special guide to something. Third edition. GBIF Secretariat: Copenhagen. 
+Author U, Autore D & Auteur T. (2022) Primary biodiversity data and the Post-2020 Global Biodiversity Framework. GBIF Secretariat: Copenhagen. 
 // Uncomment once a DOI is assigned
 //https://doi.org/10.EXAMPLE/EXAMPLE
 
@@ -15,13 +15,35 @@ Author U, Autore D & Auteur T. The special guide to something. Third edition. GB
 
 Un Author, Due Autore & https://www.orcid.org/#[Troisième Auteur]
 
+https://orcid.org/0000-0003-1273-1807[David Bloom], https://orcid.org/0000-0002-6056-5084[Paula Zermoglio], 
+- Robert Guralnick -Florida Museum of Natural History: Gainesville, FL, US - https://orcid.org/0000-0001-6682-1504
+- Andrew Rodrigues - GBIF Secretariat - https://orcid.org/0000-0002-5468-2452
+- Tim Hirsch - GBIF Secretariat -https://orcid.org/0000-0002-5015-5807
+- Jillian Campbell  - UN Convention on Biological Diversity 
+- Natasha Ali - United Nations Environment Programme World Conservation Monitoring Centre (UNEP-WCMC) https://orcid.org/0000-0003-0842-0424
+- Simon Ferrier -  CSIRO Land and Water -https://orcid.org/0000-0001-7884-2388
+- Aidin Niamir - Senckenberg Biodiversity and Climate Research Centre - Germany https://orcid.org/0000-0003-4511-3407
+- Maria Cecilia Londoño - Humboldt Institute/Group on Earth Observations Biodiversity Observation Networks (GEO BON) -https://orcid.org/0000-0002-2317-5503
+- Yanina Sica - Yale University
+
+
 === Contributors
 
-James Joyce and Samuel Beckett of Trinity College, Dublin, contributed to this version of the document.
+https://orcid.org/0000-0003-1273-1807[David Bloom],VertNet: UF/Florida Museum of Natural History, US - 
+- Paula Zermoglio - Vertnet - https://orcid.org/ 0000-0002-6056-5084
+- Robert Guralnick -Florida Museum of Natural History: Gainesville, FL, US - https://orcid.org/0000-0001-6682-1504
+- Andrew Rodrigues - GBIF Secretariat - https://orcid.org/0000-0002-5468-2452
+- Tim Hirsch - GBIF Secretariat -https://orcid.org/0000-0002-5015-5807
+- Jillian Campbell  - UN Convention on Biological Diversity 
+- Natasha Ali - United Nations Environment Programme World Conservation Monitoring Centre (UNEP-WCMC) https://orcid.org/0000-0003-0842-0424
+- Simon Ferrier -  CSIRO Land and Water -https://orcid.org/0000-0001-7884-2388
+- Aidin Niamir - Senckenberg Biodiversity and Climate Research Centre - Germany https://orcid.org/0000-0003-4511-3407
+- Maria Cecilia Londoño - Humboldt Institute/Group on Earth Observations Biodiversity Observation Networks (GEO BON) -https://orcid.org/0000-0002-2317-5503
+- Yanina Sica - Yale University
 
 === Licence
 
-The document _The special guide to something_ is licensed under https://creativecommons.org/licenses/by-sa/4.0[Creative Commons Attribution-ShareAlike 4.0 Unported License].
+The document _Primary biodiversity data and the Post-2020 Global Biodiversity Framework_ is licensed under https://creativecommons.org/licenses/by-sa/4.0[Creative Commons Attribution-ShareAlike 4.0 Unported License].
 
 === Persistent URI
 
@@ -31,12 +53,7 @@ The document _The special guide to something_ is licensed under https://creative
 
 === Document control
 
-Third edition, April 2020
-
-// include reference to provenance if possible/relevant
-https://doi.org/10.EXAMPLE/2ND-EXAMPLE[Second edition], March 2015, by Due Autore and https://orcid.org/0000-0000-0000-0000[Troisième Auteur].
-
-Originally based on an earlier publication, _Towards establishing the special guide to something_.
+Adapted from Bloom DA, Zermoglio P & Guralnick R (2021) https://doi.org/10.35035/doc-2ph8-0403[Analysis of biodiversity data needs in the post-2020 framework^]. Copenhagen: GBIF Secretariat. https://doi.org/10.35035/doc-2ph8-0403.
 
 === Cover image
 
