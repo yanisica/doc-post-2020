@@ -1,24 +1,7 @@
 == Preface
 
-// This section can contain not only a preface but other 'frontmatter' as well—particularly those called out in the AsciiDoctor user manual, including
+For decades scientists and policymakers have called for more effective and efficient methods to monitor and address the global challenges of biodiversity loss and environmental degradation (Carpenter et al. 2006, Pereira & Cooper 2006, Navarro et al. 2017). The Convention on Biological Diversity (CBD) is developing a post-2020 global biodiversity framework to support an accelerated push for action with a new set of goals and targets that will replace the Aichi targets. The First Draft of the framework (CBD 2021a) built upon the mission of the Strategic Plan for Biodiversity 2011-2020 (CBD 2010), retains the 2050 Vision and proposed five long-term goals with associated outcomes for 2030 and 2050, including 21 action targets through which the goals should be achieved.
 
-=== Epigraph
+As part of the post-2020 framework, Parties to the CBD will agree on a subset of headline quantitative indicators that will allow Parties to monitor progress towards the goals and action targets (UNEP-WCMC & BIP 2020). These indicators should apply to all countries and allow prioritization of capacity and resource needs. A sufficient supply of high-quality data and a range of Essential Biodiversity Variables (EBVs), a framework that defines a minimum set of critical variables required to study, report and manage biodiversity change (Jetz et al, 2019), would need to be in place to ensure the comparability of headline indicators across the globe and allow scalable reporting across space and time (CBD 2021b). These need to be supported by common methodologies and data standards, and biodiversity observation networks and information facilities.
 
-[quote, Tacitus]
-mihi, quanto plura recentium seu veterum revolvo, tanto magis ludibria rerum mortalium cunctis in negotiis obversantur.
-
-=== Abstract
-
-The special guide to something blar de blar blar blar.
-
-=== Preface
-
-It was a dark and stormy night, the rain fell in torrents — except at occasional intervals, when it was checked by a violent gust of wind which swept up the streets (for it is in London that our scene lies), rattling along the house-tops, and fiercely agitating the scanty flame of the lamps that struggled against the darkness. Through one of the obscurest quarters of London, and among haunts little loved by the gentlemen of the police, a man evidently of the lowest orders was wending his solitary way.
-
-=== Acknowledgments
-
-This section may also be placed at the document’s end.
-
-=== Dedication
-
-Once again to Zelda
+GBIF commissioned a study in 2020 to analyse those indicators (synthetic or derived metrics) available at that time that make use of primary biodiversity data (raw observations) to support the post-2020 biodiversity framework. The study reviewed and characterized the sources of primary biodiversity data, identifying where data use is redundant, and how GBIF might mobilize data more effectively to support the implementation of the new post-2020 framework. To ensure a robust monitoring framework three key elements need to be addressed: the fitness of data models and standards for the development of indicators; biases within the data that could prevent the utility of indicators at different reporting scales; and a lack of transparency in the way in which data is applied in indicators, as well as in the provenance of the data generating indicator results. The main conclusions of the study are set out in this paper and will be addressed in an online consultation.
