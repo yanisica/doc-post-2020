@@ -7,39 +7,23 @@ endif::backend-html5[]
 
 === Suggested citation
 
-Author U, Autore D & Auteur T. (2022) Primary biodiversity data and the Post-2020 Global Biodiversity Framework. GBIF Secretariat: Copenhagen. 
-// Uncomment once a DOI is assigned
-//https://doi.org/10.EXAMPLE/EXAMPLE
-
-=== Authors
-
-Un Author, Due Autore & https://www.orcid.org/#[Troisième Auteur]
-
-https://orcid.org/0000-0003-1273-1807[David Bloom], https://orcid.org/0000-0002-6056-5084[Paula Zermoglio], 
-- Robert Guralnick -Florida Museum of Natural History: Gainesville, FL, US - https://orcid.org/0000-0001-6682-1504
-- Andrew Rodrigues - GBIF Secretariat - https://orcid.org/0000-0002-5468-2452
-- Tim Hirsch - GBIF Secretariat -https://orcid.org/0000-0002-5015-5807
-- Jillian Campbell  - UN Convention on Biological Diversity 
-- Natasha Ali - United Nations Environment Programme World Conservation Monitoring Centre (UNEP-WCMC) https://orcid.org/0000-0003-0842-0424
-- Simon Ferrier -  CSIRO Land and Water -https://orcid.org/0000-0001-7884-2388
-- Aidin Niamir - Senckenberg Biodiversity and Climate Research Centre - Germany https://orcid.org/0000-0003-4511-3407
-- Maria Cecilia Londoño - Humboldt Institute/Group on Earth Observations Biodiversity Observation Networks (GEO BON) -https://orcid.org/0000-0002-2317-5503
-- Yanina Sica - Yale University
-
+Bloom D, Zermoglio P, Guralnick R, Rodrigues A, Hirsch T, Campbell J, Ali N, Ferrier S, Niamir A, Londoño MC & Sica Y (2022) Primary biodiversity data and the Post-2020 Global Biodiversity Framework. GBIF Secretariat: Copenhagen. https://doi.org/10.15468/doc-pgg2-xn60
 
 === Contributors
 
-https://orcid.org/0000-0003-1273-1807[David Bloom],VertNet: UF/Florida Museum of Natural History, US - 
-- Paula Zermoglio - Vertnet - https://orcid.org/ 0000-0002-6056-5084
-- Robert Guralnick -Florida Museum of Natural History: Gainesville, FL, US - https://orcid.org/0000-0001-6682-1504
-- Andrew Rodrigues - GBIF Secretariat - https://orcid.org/0000-0002-5468-2452
-- Tim Hirsch - GBIF Secretariat -https://orcid.org/0000-0002-5015-5807
-- Jillian Campbell  - UN Convention on Biological Diversity 
-- Natasha Ali - United Nations Environment Programme World Conservation Monitoring Centre (UNEP-WCMC) https://orcid.org/0000-0003-0842-0424
-- Simon Ferrier -  CSIRO Land and Water -https://orcid.org/0000-0001-7884-2388
-- Aidin Niamir - Senckenberg Biodiversity and Climate Research Centre - Germany https://orcid.org/0000-0003-4511-3407
-- Maria Cecilia Londoño - Humboldt Institute/Group on Earth Observations Biodiversity Observation Networks (GEO BON) -https://orcid.org/0000-0002-2317-5503
-- Yanina Sica - Yale University
+* https://orcid.org/0000-0003-1273-1807[David Bloom^], VertNet: UF/Florida Museum of Natural History 
+* https://orcid.org/0000-0002-6056-5084[Paula Zermoglio^] VertNet
+* https://orcid.org/0000-0001-6682-1504[Robert Guralnick^], Florida Museum of Natural History
+* https://orcid.org/0000-0002-5468-2452[Andrew Rodrigues^], GBIF Secretariat
+* https://orcid.org/0000-0002-5015-5807[Tim Hirsch^] GBIF Secretariat
+* Jillian Campbell, UN Convention on Biological Diversity
+* https://orcid.org/0000-0003-0842-0424[Natasha Ali^], United Nations Environment Programme World Conservation Monitoring Centre (UNEP-WCMC)
+* https://orcid.org/0000-0001-7884-2388[Simon Ferrier^] CSIRO Land and Water
+* https://orcid.org/0000-0003-4511-3407[Aidin Niamir^], Senckenberg Biodiversity and Climate Research Centre
+* https://orcid.org/0000-0002-2317-5503[Maria Cecilia Londoño^], Humboldt Institute | Group on Earth Observations Biodiversity Observation Networks (GEO BON)
+* Yanina Sica, Yale University
+
+Additional contributors to subsequent versions will be credited here.
 
 === Licence
 
@@ -47,9 +31,7 @@ The document _Primary biodiversity data and the Post-2020 Global Biodiversity Fr
 
 === Persistent URI
 
-#TODO: Assign a DOI before publication#
-// Uncomment once a DOI is assigned
-//https://doi.org/10.EXAMPLE/EXAMPLE
+https://doi.org/10.15468/doc-pgg2-xn60
 
 === Document control
 
