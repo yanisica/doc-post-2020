@@ -1,8 +1,3 @@
-// add cover image to img directory and update filename below
-ifdef::backend-html5[]
-image::img/web/photo.jpg[]
-endif::backend-html5[]
-
 == Colophon
 
 === Suggested citation
@@ -39,5 +34,4 @@ Adapted from Bloom DA, Zermoglio P & Guralnick R (2021) https://doi.org/10.35035
 
 === Cover image
 
-// Caption. Credit, source, licence.
-Western honey bee (_Apis mellifera_), Hardy County, Florida, United States. Photo 2018 thebugroomno2 via https://www.gbif.org/occurrence/1945467387[iNaturalist research-grade observations], licensed under http://creativecommons.org/licenses/by-nc/4.0/[CC BY-NC 4.0].
+Bleeding bonnet (_Mycena sanguinolenta_), observed in Norway. Photo &copy; 2020 Kirsti Anne Mandal via https://www.gbif.org/occurrence/2848866491[Norwegian Species Observation Service].
