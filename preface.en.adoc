@@ -1,3 +1,7 @@
+ifdef::backend-html5[]
+image::img/web/photo.jpg[]
+endif::backend-html5[]
+
 == Preface
 
 For decades scientists and policymakers have called for more effective and efficient methods to monitor and address the global challenges of biodiversity loss and environmental degradation (Carpenter et al. 2006, Pereira & Cooper 2006, Navarro et al. 2017). The Convention on Biological Diversity (CBD) is developing a post-2020 global biodiversity framework to support an accelerated push for action with a new set of goals and targets that will replace the Aichi targets. The First Draft of the framework (CBD 2021a) built upon the mission of the Strategic Plan for Biodiversity 2011-2020 (CBD 2010), retains the 2050 Vision and proposed five long-term goals with associated outcomes for 2030 and 2050, including 21 action targets through which the goals should be achieved.
