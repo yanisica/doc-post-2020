@@ -1,4 +1,4 @@
-= GBIF Document Template
+= Primary biodiversity data and the Post-2020 Global Biodiversity Framework
 Andrew Rodrigues <arodrigues@gbif.org>; David Bloom; Paula Zermoglio; Robert Guralnick; Tim Hirsch; Jillian Campbell; Natasha Ali; Simon Ferrier; Aidin Niamir; Maria Cecilia Londoño; Yanina Sica
 :toc: left
 :toclevels: 3
