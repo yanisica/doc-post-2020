@@ -11,12 +11,13 @@ Bloom D, Zermoglio P, Guralnick R, Rodrigues A, Hirsch T, Campbell J, Ali N, Fer
 * https://orcid.org/0000-0001-6682-1504[Robert Guralnick^], Florida Museum of Natural History
 * https://orcid.org/0000-0002-5468-2452[Andrew Rodrigues^], GBIF Secretariat
 * https://orcid.org/0000-0002-5015-5807[Tim Hirsch^] GBIF Secretariat
-* Jillian Campbell, UN Convention on Biological Diversity
-* https://orcid.org/0000-0003-0842-0424[Natasha Ali^], United Nations Environment Programme World Conservation Monitoring Centre (UNEP-WCMC)
 * https://orcid.org/0000-0001-7884-2388[Simon Ferrier^] CSIRO Land and Water
 * https://orcid.org/0000-0003-4511-3407[Aidin Niamir^], Senckenberg Biodiversity and Climate Research Centre
-* https://orcid.org/0000-0002-2317-5503[Maria Cecilia Londoño^], Humboldt Institute | Group on Earth Observations Biodiversity Observation Networks (GEO BON)
 * Yanina Sica, Yale University
+* https://orcid.org/0000-0003-0842-0424[Natasha Ali^], United Nations Environment Programme World Conservation Monitoring Centre (UNEP-WCMC)
+* Jillian Campbell, UN Convention on Biological Diversity
+* https://orcid.org/0000-0002-2317-5503[Maria Cecilia Londoño^], Humboldt Institute | Group on Earth Observations Biodiversity Observation Networks (GEO BON)
+
 
 Additional contributors to subsequent versions will be credited here.
 
